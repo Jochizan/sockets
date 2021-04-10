@@ -1,0 +1,33 @@
+{
+  "name": "csrf",
+  "version": "1.0.0",
+  "description": "Nodejs Security",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochizan/sockets.git"
+  },
+  "keywords": [
+    "nodejs",
+    "csrf",
+    "express"
+  ],
+  "author": "Joan Roca Hormaza <remnyachizot2015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jochizan/sockets/issues"
+  },
+  "homepage": "https://github.com/Jochizan/sockets#readme",
+  "dependencies": {
+    "connect-flash-plus": "^0.2.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0",
+    "express-session": "^1.17.1",
+    "uuid": "^8.3.2"
+  }
+}
