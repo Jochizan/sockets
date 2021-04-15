@@ -1,0 +1,23 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "Codigo con node para conexiones IP/TCP con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochizan/sockets.git"
+  },
+  "keywords": [],
+  "author": "Joan Roca Hormaza <remnyachizot2015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jochizan/sockets/issues"
+  },
+  "homepage": "https://github.com/Jochizan/sockets#readme",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
+}
